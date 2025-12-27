@@ -1,19 +1,14 @@
 # recipes_1
+List of my favourite recipes, I am desperately craving for!
 
-- This project is part of my journey on the odin project. This will help me become a better software developer, and a web developer specifically. My goal with this project is to learn the structure of CSS and using JS as a server side codebase. This project is part of that journey.
-- For this project, I demonstrated my newfound knowledge of HTML basics by creating a website with two different recipes. I learned the HTML boilerplate, how to integrate links and images, unordered and ordered lists, etc.
+## Purpose
+• Building HTML foundational skills leading towards creating the website layout.
+• Developing basic Git & GitHub skills, that helps in manage the different versions of the projects.
 
-- A list of my favorite recipes.
+## Description
+I built a simple website using only HTML. The project gives an understanding of using different tags, attributes, and elements of HTML. The wesbite contains the list of my favorite recipes. Later in future, I will add some CSS to make the website more asthetic and engaging.
 
-Purpose
-Build HTML skills
-Build GIT skills
-Description
-This will be a simple website with home page containing links to my favorite recipes.
-
-Resource Attributions
-Lasagna photo by Emanuel Ekström on Unsplash
-
-Miso glazed salmon photo by Charles Chen on Unsplash
-
-Fried brown rice photo by Christopher Alvarenga on Unsplash
+## Resource Attribution
+- Bhindi Masala photo by Vandana Chauhan from greenbowl2soul.com
+- Biryani photo by Alan C from flickr.com
+- Nihari photo by Fatima Maniya from flavoredbyfatima.com
